@@ -90,6 +90,13 @@ En la carpeta `/resultados`, encontrarás:
 
 Cada experimento generará gráficos y tablas que muestran los datos obtenidos y te permitirán analizar el rendimiento de los modelos evaluados.
 
+| Sistema          | Base de Datos              | EER [%] |
+|------------------|----------------------------|---------|
+| Xvector + PLDA   | VoxCeleb 2, LibriTTS        | 2.43    |
+| ECAPA-TDNN       | VoxCeleb 2, LibriTTS        | 0.27    |
+| ResNet TDNN      | VoxCeleb 2, LibriTTS        | 0.06    |
+
+
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Si deseas colaborar, sigue los siguientes pasos:
