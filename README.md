@@ -90,16 +90,16 @@ En la carpeta `/resultados`, encontrarás:
 
 Cada experimento generará gráficos y tablas que muestran los datos obtenidos y te permitirán analizar el rendimiento de los modelos evaluados.
 
-Evaluación del rendimiento de los sistemas ASV en situación estándar:
--
+### Evaluación del rendimiento de los sistemas ASV en situación estándar:
+
 | Sistema          | Base de Datos              | EER [%] |
 |------------------|----------------------------|---------|
 | x-vector         | VoxCeleb 2, LibriTTS        | 2.43    |
 | ECAPA-TDNN       | VoxCeleb 2, LibriTTS        | 0.27    |
 | ResNet           | VoxCeleb 2, LibriTTS        | 0.06    |
 
-Evaluación del rendimiento de los sistemas ASV en situación de suplantación de identidad:
--
+### Evaluación del rendimiento de los sistemas ASV en situación de suplantación de identidad:
+
 - Sistema TTS: FastSpeech2 y DiffWave, Base de datos: LJSpeech (1 locutor)
 
 | Sistema      | EER [%] EP-1000 sentencias | EER [%] EP-100 sentencias |
