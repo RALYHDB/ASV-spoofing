@@ -121,6 +121,7 @@ Cada experimento generará gráficos y tablas que muestran los datos obtenidos y
 | ResNet   | 10,63        | 9,62         | 10,20    |
 | ECAPA    | 23,11        | 10,79        | 16,63    |
 
+<img src="resultados/curvas_DET_LibriTTS_EP100.png" alt="Curvas DET" width="50%">
 
 ## Contribuciones
 
