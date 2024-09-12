@@ -4,7 +4,7 @@ Este repositorio contiene el código y los recursos asociados a mi Trabajo Fin d
 
 ### Explicación de cada sección:
 
-1. **Título del Proyecto**: El título claro y conciso de tu proyecto.
+1. **Título del Proyecto**: Evaluación sobre la aplicabilidad de los actuales conversores y sintetizadores de voz para la generación de voz falsificada.
 2. **Descripción del Proyecto**: Explica brevemente en qué consiste el proyecto, su relevancia, y lo que otros pueden encontrar en el repositorio.
 3. **Estructura del Repositorio**: Describe cómo están organizados los archivos y carpetas.
 4. **Instalación y Requisitos**: Instrucciones para instalar dependencias y clonar el repositorio.
@@ -32,8 +32,6 @@ Y los **vocoders**:
 El objetivo es determinar el rendimiento de los sistemas de ASV frente a estos ataques utilizando la métrica de la Tasa de Error Equivalente (**EER**).
 
 ## Estructura del Repositorio
-
-Este repositorio está organizado de la siguiente manera:
 
 Este repositorio está organizado en las siguientes carpetas y archivos:
 
