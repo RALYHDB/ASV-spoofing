@@ -90,11 +90,31 @@ En la carpeta `/resultados`, encontrarás:
 
 Cada experimento generará gráficos y tablas que muestran los datos obtenidos y te permitirán analizar el rendimiento de los modelos evaluados.
 
+Evaluación del rendimiento de los sistemas ASV en situación estándar:
+-
 | Sistema          | Base de Datos              | EER [%] |
 |------------------|----------------------------|---------|
 | x-vector         | VoxCeleb 2, LibriTTS        | 2.43    |
 | ECAPA-TDNN       | VoxCeleb 2, LibriTTS        | 0.27    |
 | ResNet           | VoxCeleb 2, LibriTTS        | 0.06    |
+
+Evaluación del rendimiento de los sistemas ASV en situación de suplantación de identidad:
+-
+- Sistema TTS: FastSpeech2 y DiffWave, Base de datos: LJSpeech (1 locutor)
+
+| Sistema      | EER [%] EP-1000 sentencias | EER [%] EP-100 sentencias |
+|--------------|----------------------------|---------------------------|
+| x-vector     | 3,90                       | 3,90                       |
+| ResNet       | 9,30                       | 15,10                      |
+| ECAPA-TDNN   | 12,40                      | 18,30                      |
+
+-Sistema TTS: Tacotron2 y HiFiGAN, Base de datos: LibriTTS (10 locutores sexo masculino (SM), 10 locutores sexo femenino (SF))
+
+| Sistema  | EER [%] (SM) | EER [%] (SF) | EER [%]  |
+|----------|--------------|--------------|----------|
+| TDNN     | 15,45        | 15,08        | 15,47    |
+| ResNet   | 10,63        | 9,62         | 10,20    |
+| ECAPA    | 23,11        | 10,79        | 16,63    |
 
 
 ## Contribuciones
