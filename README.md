@@ -108,8 +108,10 @@ Cada experimento generará gráficos y tablas que muestran los datos obtenidos y
 | ResNet       | 9,30                       | 15,10                      |
 | ECAPA-TDNN   | 12,40                      | 18,30                      |
 
-![Curvas DET LJSpeech EP100](resultados/curvas_DET_LJSpeech_EP100.png)
-
+<div style="display: flex; justify-content: space-between;">
+  <img src="resultados/curvas_DET_LJSpeech_EP1000.png" alt="Curvas DET 1" width="45%">
+  <img src="resultados/curvas_DET_LJSpeech_EP100.png" alt="Curvas DET 2" width="45%">
+</div>
 
 -Sistema TTS: Tacotron2 y HiFiGAN, Base de datos: LibriTTS (10 locutores sexo masculino (SM), 10 locutores sexo femenino (SF))
 
