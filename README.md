@@ -182,5 +182,3 @@ Si tienes alguna duda o sugerencia respecto al proyecto, puedes contactarme a tr
 - Desplanques, B., Thienpondt, J., & Demuynck, K. (2020). *ECAPA-TDNN: Emphasized Channel Attention, Propagation and Aggregation in TDNN Based Speaker Verification*. Interspeech 2020, 3830–3834. ISCA.
 
 
-
-"# Evaluaci-n-sobre-la-aplicabilidad-de-sintetizadores-de-voz-para-la-generaci-n-de-voz-falsificada" 
