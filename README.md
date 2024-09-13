@@ -16,7 +16,7 @@ Este repositorio contiene el código y los recursos asociados a mi Trabajo Fin d
 
 En este proyecto, se analiza la vulnerabilidad de los sistemas de verificación de locutores basados en redes neuronales ante ataques de **spoofing** generados mediante síntesis de voz. Los sistemas de ASV evaluados incluyen modelos basados en:
 - **TDNN**
-- **ResNet**
+- **ResNet34**
 - **ECAPA-TDNN**
 
 Los sistemas de TTS utilizados incluyen:
