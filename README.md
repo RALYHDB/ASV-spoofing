@@ -46,7 +46,7 @@ Este repositorio está organizado en las siguientes carpetas y archivos:
 
 Para ejecutar este proyecto, necesitarás tener instaladas las siguientes dependencias:
 
-- **Python 3.10.9** o superior.
+- **Python 3.10.9**
 - **speechbrain**
 - Las bibliotecas necesarias se encuentran en el archivo `requirements.txt`.
 
