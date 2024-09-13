@@ -169,5 +169,5 @@ Agradezco cualquier sugerencia, mejora o aporte.
 Si tienes alguna duda o sugerencia respecto al proyecto, puedes contactarme a través de:
 
 - **Email:** franlopezh1b@gmail.com
-- **LinkedIn:** [tu_perfil_linkedin](https://www.linkedin.com/in/tu_perfil)
-"# Evaluaci-n-sobre-la-aplicabilidad-de-sintetizadores-de-voz-para-la-generaci-n-de-voz-falsificada" 
+- **LinkedIn:** [Francisco López Houdaibi](https://es.linkedin.com/in/francisco-l%C3%B3pez-houdaibi-4256ab222)
+ 
