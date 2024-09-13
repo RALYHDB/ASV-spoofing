@@ -155,14 +155,16 @@ En la carpeta `/resultados`, encontrarás:
 
 ## Contribuciones
 
-Las contribuciones son bienvenidas. Si deseas colaborar, sigue los siguientes pasos:
+¡Las contribuciones son bienvenidas! Si deseas colaborar, sigue estos pasos:
 
-1. **Fork** este repositorio.
-2. Crea una nueva rama para tus cambios (`git checkout -b mi-nueva-rama`).
-3. Realiza los cambios necesarios y haz un commit (`git commit -am 'Añadir nueva característica'`).
-4. Envía un pull request.
+- Haz un **fork** de este repositorio.
+- Crea una nueva rama para tus cambios:  
+  `git checkout -b nombre-de-mi-rama`
+- Realiza tus modificaciones y haz un commit describiendo los cambios:  
+  `git commit -m "Descripción breve de los cambios"`
+- Envía un **pull request** para que pueda revisarlo.
 
-Agradezco cualquier sugerencia, mejora o aporte.
+Cualquier sugerencia, mejora o aporte es apreciado.
 
 ## Contacto
 
