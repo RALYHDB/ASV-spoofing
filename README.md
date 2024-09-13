@@ -111,7 +111,7 @@ En la carpeta `/resultados`, encontrarás:
 - **/rendimiento_referencia**: Contiene los histogramas de puntuaciones conjuntos para locutores objetivos (LO) y locutores impostores (LI), tanto agregados como segregados por sexo. Además, incluye los gráficos de las tasas de falsos positivos (FPR) y falsos negativos (FNR) en función del umbral asociado a cada histograma. Los resultados están disponibles para los tres sistemas ASV evaluados.
 
 - **/rendimiento_spoofing**: Está formada por dos subcarpetas:
-  - **/LJSpeech**: Muestra histogramas de puntuaciones conjuntos para locutores objetivos (LO), locutores objetivo sintéticos (LOS), y gráficos de FPR y FNR en función del umbral, utilizando la síntesis de voz generada mediante el sistema TTS FastSpeech2 + DiffWave.
+  - **/LJSpeech**: Muestra histogramas de puntuaciones conjuntos para locutores objetivos (LO), locutores objetivo sintéticos (LOS), y gráficos de FPR y FNR en función del umbral, utilizando la síntesis de voz generada mediante el sistema TTS FastSpeech2 + DiffWave usando la base de datos LJSpeech.
   - **/LibriTTS**: Ofrece histogramas de puntuaciones y gráficos similares, pero para la síntesis de voz generada a partir del sistema TTS Tacotron2 + HiFiGAN usando la base de datos LibriTTS.
 
 - **/puntuaciones**: Contiene las puntuaciones generadas en los diferentes experimentos.
