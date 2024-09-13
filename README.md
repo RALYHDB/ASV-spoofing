@@ -1,4 +1,4 @@
-# Verificación Automática del Locutor y Ataques de Spoofing
+# Evaluación sobre la aplicabilidad de los actuales conversores y sintetizadores de voz para la generación de voz falsificada
 
 Este repositorio contiene el código y los recursos asociados a mi Trabajo Fin de Grado (TFG), en el que evalúo el rendimiento de diferentes sistemas de verificación automática del locutor (ASV) frente a ataques de suplantación de identidad utilizando tecnologías de síntesis de voz (TTS).
 
