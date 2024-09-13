@@ -54,7 +54,7 @@ To run this project, you will need the following dependencies installed:
 1. Clone this repository to your local machine using the following command:
 
     ```bash
-    git clone https://github.com/RALYHDB/Evaluacion-sobre-la-aplicabilidad-de-sintetizadores-de-voz-para-la-generaci-n-de-voz-falsificada.git
+    git clone https://github.com/RALYHDB/ASV-spoofing.git
     
     cd Spoofing
     ```
@@ -236,7 +236,7 @@ Para ejecutar este proyecto, necesitarás tener instaladas las siguientes depend
 1. Clona este repositorio a tu máquina local utilizando el siguiente comando:
 
     ```bash
-    git clone https://github.com/RALYHDB/Evaluacion-sobre-la-aplicabilidad-de-sintetizadores-de-voz-para-la-generaci-n-de-voz-falsificada.git
+    git clone https://github.com/RALYHDB/ASV-spoofing.git
     
     cd Spoofing
     ```
