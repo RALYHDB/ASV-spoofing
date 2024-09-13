@@ -119,9 +119,9 @@ In the `/resultados` folder, you will find:
 
 | System          | Database  | EER [%] |
 |-----------------|-----------|---------|
-| x-vector        | VoxCeleb1 | 2.56    |
-| ResNet34        | VoxCeleb1 | 6.20    |
-| ECAPA-TDNN      | VoxCeleb1 | 2.57    |
+| x-vector        | VoxCeleb1 | 2.43    |
+| ResNet34        | VoxCeleb1 | 0.27    |
+| ECAPA-TDNN      | VoxCeleb1 | 0.06    |
 
 
 ### ASV Systems Performance Evaluation in Spoofing Conditions:
