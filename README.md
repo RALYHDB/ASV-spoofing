@@ -35,8 +35,8 @@ Este repositorio está organizado en las siguientes carpetas y archivos:
 
 
 - `/codigo`        # Contiene los scripts para los experimentos
-- `/documentos`    # Archivos PDF y recursos relacionados con el TFG
-- `/resultados`    # Resultados experimentales, gráficos, tablas, etc.
+- `/documentos`    # Archivo PDF del TFG
+- `/resultados`    # Resultados experimentales
 - `README.md`        # Este archivo
 - `requirements.txt` # Archivo con las dependencias necesarias
 
