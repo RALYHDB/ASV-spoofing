@@ -118,10 +118,10 @@ In the `/resultados` folder, you will find:
 ### ASV Systems Performance Evaluation in Standard Conditions:
 
 | System          | Database  | EER [%] |
-|-----------------|-----------|---------|
-| x-vector        | VoxCeleb1 | 2.43    |
-| ResNet34        | VoxCeleb1 | 0.27    |
-| ECAPA-TDNN      | VoxCeleb1 | 0.06    |
+|------------------|----------------------------|---------|
+| x-vector         | VoxCeleb 2, LibriTTS        | 2.43    |
+| ECAPA-TDNN       | VoxCeleb 2, LibriTTS        | 0.27    |
+| ResNet           | VoxCeleb 2, LibriTTS        | 0.06    |
 
 
 ### ASV Systems Performance Evaluation in Spoofing Conditions:
