@@ -172,4 +172,15 @@ Si tienes alguna duda o sugerencia respecto al proyecto, puedes contactarme a tr
 
 - **Email:** franlopezh1b@gmail.com
 - **LinkedIn:** [Francisco López Houdaibi](https://es.linkedin.com/in/francisco-l%C3%B3pez-houdaibi-4256ab222)
+
+## Referencias
+
+- Ravanelli, M., Parcollet, T., Plantinga, P., Rouhe, A., Cornell, S., Lugosch, L., Subakan, C., Dawalatabad, N., Heba, A., Zhong, J., Chou, J.-C., Yeh, S.-L., Fu, S.-W., Liao, C.-F., Rastorgueva, E., Grondin, F., Aris, W., Na, H., Gao, Y., De Mori, R., & Bengio, Y. (2021). *SpeechBrain: A General-Purpose Speech Toolkit*. arXiv:2106.04624.
+  
+- Snyder, D., Garcia-Romero, D., McCree, A., Sell, G., Povey, D., & Khudanpur, S. (2018). *Spoken Language Recognition using X-vectors*. Odyssey 2018, 105–111.
+
+- Villalba, J., Chen, N., Snyder, D., Garcia-Romero, D., McCree, A., Sell, G., Borgstrom, J., García-Perera, L. P., Richardson, F., Dehak, R., Torres-Carrasquillo, P. A., & Dehak, N. (2020). *State-of-the-art speaker recognition with neural network embeddings in NIST SRE18 and Speakers in the Wild evaluations*. Computer Speech & Language, 60, 101026. https://doi.org/10.1016/j.csl.2019.101026
+
+- Desplanques, B., Thienpondt, J., & Demuynck, K. (2020). *ECAPA-TDNN: Emphasized Channel Attention, Propagation and Aggregation in TDNN Based Speaker Verification*. Interspeech 2020, 3830–3834. ISCA.
+
  
