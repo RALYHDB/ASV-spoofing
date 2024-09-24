@@ -8,8 +8,8 @@ This repository contains the code and resources associated with my Bachelor's Th
 2. **Repository Structure**: Describes how the files and folders are organized.
 3. **Installation and Requirements**: Instructions to install dependencies and clone the repository.
 4. **Usage**: Explains how to run the code, train models, conduct experiments, and any other necessary steps.
-5. **Results**: Summary of the main findings or charts generated in the experiments.
-6. **Contributions**: If you accept contributions from others, explain how to do so.
+5. **Results**: Summary of the main findings generated in the experiments.
+6. **Contributions**: Explanation of how to do changes in the repository.
 7. **Contact**: Provides contact information in case someone wants to ask questions or collaborate.
 
 ## Project Description
@@ -189,8 +189,8 @@ Este repositorio contiene el código y los recursos asociados a mi Trabajo Fin d
 2. **Estructura del Repositorio**: Describe cómo están organizados los archivos y carpetas.
 3. **Instalación y Requisitos**: Instrucciones para instalar dependencias y clonar el repositorio.
 4. **Uso**: Explica cómo ejecutar el código, entrenar modelos, realizar experimentos y cualquier otro paso necesario.
-5. **Resultados**: Resumen de los principales hallazgos o gráficos generados en los experimentos.
-6. **Contribuciones**: Si aceptas contribuciones de otros, explica cómo hacerlo.
+5. **Resultados**: Resumen de los principales hallazgos generados en los experimentos.
+6. **Contribuciones**: Explicación de cómo hacer contribuciones.
 7. **Contacto**: Proporciona información de contacto en caso de que alguien quiera hacer preguntas o colaborar.
 
 ## Descripción del Proyecto
